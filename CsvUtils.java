@@ -1,4 +1,4 @@
-package com.chujian.fms.marketing.utils;
+package com.cat.code.utils;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import java.util.Set;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @Author: lvgang
+ * @Author: 
  * @Desc:
  * @Time: 10:05 2021/8/2
  **/
